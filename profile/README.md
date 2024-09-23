@@ -40,37 +40,51 @@ With over 16+ years of experience in IT, I specialize in DevOps Engineering, Pla
 **Lead Engineer**  
 *Copenhagen, Denmark*  
 _February 2022 - Present_  
-- Microservices Development with Spring WebFlux, Spring MVC.
-- Micro frontend with Vue.js & react.js.
-- Managed PostgreSQL and Cosmos MongoDB databases.
-- Managed Kubernetes clusters (AKS) and Azure services like Traffic Manager and Key Vault.
-- Implemented Infrastructure as Code using Terraform.
-- Set up CI/CD pipelines with GitHub Actions.
-- Utilized Grafana, Loki, Prometheus, and Tempo for monitoring and tracing.
+- Azure Infrastructure as Code using Terraform
+- CI/CD pipeline development with GitHub Actions and Argo CD
+- AKS (Azure Kubernetes Service) Cluster Management
+- Temporal for workflow and service composition
+- Apigee API Gateway management
+- OAS (OpenAPI Specification) design for APIs
+- Microservices development with Spring WebFlux, Spring MVC, and Spring Data
+- Event-driven architecture with Kafka
+- Microfrontend development using Vue.js and React.js
+- PostgreSQL and CosmosDB for MongoDB
+- Secrets management using HashiCorp Vault
+- SRE tooling with LGTM stack
 
 ### Danske Bank
 **Senior IT Platform Engineer**  
 *København, Denmark*  
 _February 2021 - February 2022_  
-- Advised on SDLC, Cloud Native, and GitOps practices.
-- Designed infrastructure and implemented Infrastructure as Code with Terraform and Ansible across Azure, GCP, and AWS.
-- Developed CI/CD automation with Jenkins, Azure DevOps, GitHub Actions, and ArgoCD.
-- Specialized in microservices development with Java Spring Boot, Golang, and Node.js.
-- Container orchestration using Docker, Kubernetes, and OpenShift.
+- DevSecOps advisory on SDLC practices
+- Advisory on Cloud-Native and GitOps practices
+- Contributed to and developed Terraform modules for private cloud
+- Infrastructure as Code with Terraform for private and AWS cloud
+- Enabled centralized CI/CD pipelines for Azure DevOps and ArgoCD
+- Developed microservices for an in-house self-service portal
+- Administered container orchestration using Docker, Docker Compose, Kubernetes, and OpenShift
+
 
 ### A.P. Moller - Maersk
 **Lead Engineer - DevOps**  
 *Copenhagen, Denmark*  
 _July 2019 - February 2021_  
-- SDLC, Cloud Native, GitOps advisory services.
-- Implemented Secure by Design principles for infrastructure design using Terraform and Ansible.
-- Led junior engineers in automation efforts, particularly on Kubernetes, Azure (AKS), and Bluemix environments.
+- Designed and developed in-house tooling infrastructure with Ansible
+- Created Jenkins shared pipelines as code using Groovy
+- Managed Ansible Tower for automation
+- Provisioned Azure infrastructure using Terraform
+- Provided platform and tooling support and administration
+- Administered Azure DevOps
+- Kubernetes (K8s) administration on IBM Cloud
+- Managed and maintained a centralized library
+- Managed, maintained, and automated in-house tools including Atlassian products (Jira, Confluence, Bitbucket), SonarQube, HashiCorp Vault, Jenkins, and Hudson
 
 ### UST
 **System Analyst**  
 *Copenhagen, Denmark / London, UK / Kerala, India*  
 _July 2013 - August 2018_  
-- Full-stack development in Java, HTML, CSS, and SOA middleware technologies (ESB, OSB).
+- Full-stack development in Java, HTML, CSS, and SOA middleware (ESB, OSB) technologies.
 - Managed CI/CD automation on Jenkins and Hudson.
 - Collaborated on requirements analysis, system design, and production bug fixing.
 
@@ -94,6 +108,7 @@ _2007 - 2010_
 ## Skills
 - **Cloud Platforms**: `AWS`, `Azure`, `GCP`
 - **Programming**: `Java`, `Golang`, `Python`, `JavaScript`, `Groovy`
+- **Backend framework**: `Springboot`, `Springboot Webflux`, `play framework`
 - **Frontend Frameworks**: `Vue.js`, `React.js`, `Angular.js`
 - **Scripting**: `Python`, `Shell`
 - **Infrastructure as Code**: `Terraform`, `Pulumi`
